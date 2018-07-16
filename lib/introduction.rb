@@ -1,4 +1,4 @@
-def introduction (name)
-  puts "hell0 #{name}"
+def introduction(name)
+  puts "hello #{name}"
   end
 end
